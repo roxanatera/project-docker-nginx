@@ -28,7 +28,7 @@ This project shows how to deploy a static web application inside a Docker contai
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/project-docker-nginx.git
+git clone https://github.com/roxanatera/project-docker-nginx.git
 cd project-docker-nginx
 ```
 
@@ -101,7 +101,7 @@ docker exec -it nginx-static-web sh
 
 ### 👨‍💻 Author
 
-**Alexis** - DevOps Portfolio
+**JR** - DevOps Portfolio
 
 ### 📄 License
 
