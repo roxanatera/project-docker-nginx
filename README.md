@@ -6,6 +6,10 @@
 
 ## English
 
+**🚀 View the live application**: [https://roxanatera.github.io/project-docker-nginx/](https://roxanatera.github.io/project-docker-nginx/)
+
+![Application Screenshot](screenshots/docker-nginx-demo.png)
+
 ### 📋 Description
 
 This project shows how to deploy a static web application inside a Docker container using Nginx as a web server. It is part of my DevOps portfolio, specifically in the basic projects section.
