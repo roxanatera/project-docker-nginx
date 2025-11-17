@@ -6,7 +6,7 @@
 
 ## English
 
-**🚀 View the live application**: [https://roxanatera.github.io/project-docker-nginx/](https://roxanatera.github.io/project-docker-nginx/)
+**🚀 View the live application**: 
 
 ![Application Screenshot](screenshots/docker-nginx-demo.png)
 
